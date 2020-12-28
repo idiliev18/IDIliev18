@@ -2,7 +2,6 @@
   <summary><b>Github Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=idiliev18&show_icons=true&theme=grey&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idiliev18&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 
