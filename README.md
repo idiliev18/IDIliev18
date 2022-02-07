@@ -2,11 +2,11 @@ CHOVAL S KARTOFI
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=idiliev18&bg_color=grey&theme=tokyonight&show_icons=true&count_private=true">
-</p>
+</p><!--
 [![Spotify](https://idiliev18.vercel.app/api/spotify)](https://open.spotify.com/user/5org9bombjr2qb6199r0e4ipr)
 
 
-<!--
+
 **IDIliev18/IDIliev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
