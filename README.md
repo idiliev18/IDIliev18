@@ -3,7 +3,7 @@ CHOVAL S KARTOFI
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=idiliev18&bg_color=grey&theme=tokyonight&show_icons=true&count_private=true">
 </p>
-[![Spotify](https://idiliev18.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://idiliev18.vercel.app/api/spotify)](https://open.spotify.com/user/5org9bombjr2qb6199r0e4ipr)
 
 
 <!--
