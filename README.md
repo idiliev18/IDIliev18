@@ -1,7 +1,8 @@
 
 <p align = "center">
   JAVASCRIPT DEVELOPER
-
+  
+![image](https://user-images.githubusercontent.com/50216485/173243231-bbdca22b-2974-4ad8-8416-570901dd1f94.png)
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=idiliev18&bg_color=grey&theme=tokyonight&show_icons=true&count_private=true">
@@ -10,4 +11,4 @@
 
 
 
-![image](https://user-images.githubusercontent.com/50216485/173243231-bbdca22b-2974-4ad8-8416-570901dd1f94.png)
+
